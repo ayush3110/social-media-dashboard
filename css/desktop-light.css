@@ -1,0 +1,8 @@
+.main{
+    background-color: white;
+    background: linear-gradient(to top, rgb(254,255,254) 70%,rgb(254,255,254) 50%,rgb(249,248,254) 30%,rgb(249,248,254) 100%);
+}
+
+.b ,.num, .bheading, .bnum{
+    color: black;
+}

@@ -1,0 +1,100 @@
+.main{
+    display: grid;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to top, rgb(29,32,41) 95%,rgb(29,32,41) 50%,rgb(33,35,47) 5%,rgb(33,35,47) 100%);
+}
+
+.header{
+    width: 60vw;
+    flex-direction: column;
+    margin-left: 7vw;
+}
+
+.top{
+    margin-right: 8vw;
+}
+
+.bottom{
+    margin-right: 8vw;
+}
+
+.bheading{
+    width: 84%;
+    margin-left: 8vw;
+}
+
+.m{
+    width: 80%;
+    text-align: left;
+}
+
+.cm-toggle{
+    width: 20%;
+}
+
+.a{
+    width: 100%;
+}
+
+.d{
+    width: 100%;
+    margin-top: 1.2vh;
+    border-top: 1px solid rgb(43,47,65);
+}
+
+li{
+    margin: 1.5vh;
+    background-color: rgb(36,43,66);
+  }
+
+  .top ul{
+    display: flex;
+    flex-direction: column;
+
+}
+
+    .part{
+        display: none;
+    }
+
+  .top li{
+    height: 20vh;
+    width: 60vw;
+    margin: 1.5vw;
+    border-radius: 5px 5px 10px 10px;
+  }
+
+  .bottom li{
+   
+    width: 60vw;
+    height: 12vh;
+    margin: 1vw;
+    border-radius: 8px;
+  }
+
+.bottom ul{
+    display: flex;
+    flex-direction: column;
+}
+
+.btitle{
+    margin-left: 3vw;
+}
+
+.blogo{
+    margin-right: 3vw;
+}
+
+.bnum{
+    margin-left: 3vw;
+}
+
+.bupdate{
+    margin-right: 3vw;
+}
+
+.bupdate .trand{
+    margin-top: 0.5vh;
+}

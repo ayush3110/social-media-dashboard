@@ -166,25 +166,25 @@ body{
   #fb{
     height: 20px;
     width: 20px;
-    background-image: url("/social-media-dashboard-with-theme-switcher-master/images/icon-facebook.svg");
+    background-image: url("../images/icon-facebook.svg");
   }
 
   #tw{
     height: 17px;
     width: 20px;
-    background-image: url("/social-media-dashboard-with-theme-switcher-master/images/icon-twitter.svg");
+    background-image: url("../images/icon-twitter.svg");
   }
 
   #in{
     height: 20px;
     width: 20px;
-    background-image: url("/social-media-dashboard-with-theme-switcher-master/images/icon-instagram.svg");
+    background-image: url("../images/icon-instagram.svg");
   }
 
   #yt{
     height: 20px;
     width: 20px;
-    background-image: url("/social-media-dashboard-with-theme-switcher-master/images/icon-youtube.svg");
+    background-image: url("../images/icon-youtube.svg");
   }
 
   .heading{
@@ -229,11 +229,11 @@ body{
   }
 
   #up{
-    background-image: url("/social-media-dashboard-with-theme-switcher-master/images/icon-up.svg");
+    background-image: url("../images/icon-up.svg");
   }
 
   #down{
-    background-image: url("/social-media-dashboard-with-theme-switcher-master/images/icon-down.svg");
+    background-image: url("../images/icon-down.svg");
   }
 
   .bheading{
